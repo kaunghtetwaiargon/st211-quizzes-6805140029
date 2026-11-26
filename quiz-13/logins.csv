@@ -1,5 +1,0 @@
-username,password,valid
-admin,admin123,True
-user,pass456,True
-hacker,,False
-,nopassword,False
